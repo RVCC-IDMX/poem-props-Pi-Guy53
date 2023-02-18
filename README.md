@@ -29,3 +29,8 @@ Use this as the "Publish command" if needed by hosting services such as Netlify.
 ## Resources
 
 <small>The starter was inspired by [11ty Sass Skeleton](https://github.com/5t3ph/11ty-sass-skeleton) by [@5t3ph](https://twitter.com/5t3ph)</small>
+
+#A Jelly-Fish
+This is a poem about jelly-fish wirtten by Marianne Moore.
+[Poem Source] (https://poets.org/poem/jelly-fish)
+[Jellyfish image by Trae Gould] (https://unsplash.com/photos/v-ti3sccORY?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText)
